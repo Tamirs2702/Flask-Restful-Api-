@@ -1,0 +1,51 @@
+
+## Restful Api Application with Flask_SqlAlchemy ##  
+      
+
+      
+     Tasks: 
+     1. “/api/getAddresses” POST API
+             ->upload csv file to server 
+
+
+
+Issues:
+ask Arik about this points. 
+
+1.Local deployment: Should it be Golbal ? 
+  -> Server side Connection 
+  -> csv from endpoint 
+    --maybe cloud sol for store this files. 
+    
+2.Security: who can read and post to data base ? 
+
+3.Scalbility: How many Machines do we have for unlimited data size ? 
+
+4.Json issues: (fix the issue  allow end point upload csv and make an Py service Taking Care Parsing Json at End Point) 
+     Maybe: 
+     possible soloutions: 
+     
+     
+ 5.Runtime & Memory:
+    -> Find a good Complexity algoritem for find Points Distance. 
+    
+    
+ 6.Security issue:
+  anyone can acsess db with (get, post) 
+  should it be secure somhow. 
+  
+                System Archticture: 
+ FrameWork: Flask & python 
+ DataBase:Sql Alchemy & Postgst 
+ other Libaris:Swagger 
+
+DB improvemnts: 
+-> 
+
+
+
+ 
+                      Main Features
+Easy-to-use admin interface for API Tracking , managing Db, monitoring data, etc.
+Simple yet extensive API
+ 
